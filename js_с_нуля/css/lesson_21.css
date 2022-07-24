@@ -1,0 +1,15 @@
+.itKamasutra-slider {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.itKamasutra-slider button {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.itKamasutra-slider .slide-img {
+    max-width: 80%;
+    max-height: 80%;
+}

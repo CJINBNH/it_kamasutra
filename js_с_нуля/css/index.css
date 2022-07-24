@@ -1,0 +1,28 @@
+
+    .purple {
+        color: purple;
+        font-size: 50px;
+        border: black 1px solid;
+    }
+
+    .importent-size {
+        font-size: 50px;
+    }
+    .importent-item {
+        color: blue;
+        font-size: 20px;
+        border: blue 1px solid;
+        margin-left: 10px;
+        padding: 5px;
+    }
+
+    .green {
+        color: green;
+        font-size: 20PX;
+        border: black 1px solid;
+    }
+
+    
+    img {
+        width: 100px;
+    }
